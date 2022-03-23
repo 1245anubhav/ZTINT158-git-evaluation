@@ -1,1 +1,3 @@
-# ZTINT158-git-evaluation
+                         Git and Github 
+                   About git 
+  Git is free and open-source distributed version control system. It is a source code management system. Git was initially designed and developed by Linus Torvalds in 2005 for Linux Kernel development. It is used to handle small to very large projects easily and we also used it to changes in our source code. Git also makes collaboration easier, allowing changes by multiple people to all be merge into one source.   
